@@ -1,0 +1,10 @@
+src/com/twdev/poo/PooApplication.java
+src/com/twdev/poo/persona/model/Persona.java
+src/com/twdev/poo/company/model/Empresa.java
+src/com/twdev/poo/company/repository/EmpresaRepository.java
+src/com/twdev/poo/customer/model/Cliente.java
+src/com/twdev/poo/customer/model/TipoCliente.java
+src/com/twdev/poo/customer/repository/ClienteRepository.java
+src/com/twdev/poo/employeer/model/Area.java
+src/com/twdev/poo/employeer/model/Employee.java
+src/com/twdev/poo/employeer/repository/EmpleadoRepository.java
